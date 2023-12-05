@@ -137,33 +137,40 @@
       <h2></h2>
       <p>Permintaan Data</p>
     </div>
-
     <div class="row">
-      <div class="col-md-12 col-lg-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
+      <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
         <div class="icon-box">
           <div class="icon"><i class="bx bx-file"></i></div>
           <h4 class="title"><a href="">Surat Permohonan</a></h4>
-          <p class="description">Surat permohonan dari  intansi/kampus</p>
+          <p class="description">Surat permohonan/pengantar dari Kampus Untuk Dinas Kelautan, Perikanan Jawa Timur, dan UPT Pelabuhan Perikanan Pantai Bulu</p>
         </div>
       </div>
 
-      <div class="col-md-12 col-lg-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
+      <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
+        <div class="icon-box">
+          <div class="icon"><i class="bx bx-file"></i></div>
+          <h4 class="title"><a href="">Surat Pernyataan</a></h4>
+          <p class="description">Surat Pernyataan Mahasiswa dilampirkan Kartu Tanda Mahasiswa Aktif (Jika Tidak ada Pengantar Kampus)</p>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
+        <div class="icon-box">
+          <div class="icon"><i class="bx bx-file"></i></div>
+          <h4 class="title"><a href="">Proposal</a></h4>
+          <p class="description">Surat Permohonan Studi Lapangan/Penilitian Sesuai Judul Tugas Akhir / Skripsi dan Proposal Kegiatan Magang</p>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
         <div class="icon-box">
           <div class="icon"><i class="bx bx-file"></i></div>
           <h4 class="title"><a href="">Formulir</a></h4>
-          <p class="description">Mengisi formulir magang</p>
+          <p class="description">Mengisi formulir secara  online</p>
+
         </div>
       </div>
-    </div>
-    <div class="col-md-12 col-lg-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
-        <div class="icon-box">
-          <div class="icon"><i class="bx bx-file"></i></div>
-          <h4 class="title"><a href="">Formulir</a></h4>
-          <p class="description">Berkas dikirim Ke Pemohon</p>
-        </div>
-      </div>
-    </div>
-  </div>
+    
   </div>
   
 </section><!-- End Services Section -->
