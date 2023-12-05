@@ -10,7 +10,7 @@
             "request": "launch",
             "reAttach": true,
             "name": "Launch localhost",
-            "url": "http://localhost/SIPARIMANTA/SIPARIMANTA/",
+            "url": "http://localhost/siparimanta2/SIPARIMANTA/",
             "webRoot": "${workspaceFolder}"
         }
 
