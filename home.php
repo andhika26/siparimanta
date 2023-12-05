@@ -144,7 +144,7 @@
         <div class="icon-box">
           <div class="icon"><i class="bx bx-file"></i></div>
           <h4 class="title"><a href="">Surat Permohonan</a></h4>
-          <p class="description">Surat permohonan dari  intansi/kampus</p>
+          <p class="description">Surat permohonan dari  intansi</p>
         </div>
       </div>
 
