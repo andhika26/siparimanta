@@ -159,15 +159,6 @@
   <div class="col-md-12 col-lg-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
         <div class="icon-box">
           <div class="icon"><i class="bx bx-file"></i></div>
-          <h4 class="title"><a href="">Data Permintaan</a></h4>
-          <p class="description">dikirim Ke Pemohon</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-12 col-lg-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
-        <div class="icon-box">
-          <div class="icon"><i class="bx bx-file"></i></div>
           <h4 class="title"><a href="">Formulir</a></h4>
           <p class="description">Berkas dikirim Ke Pemohon</p>
         </div>
