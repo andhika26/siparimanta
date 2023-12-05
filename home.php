@@ -139,7 +139,7 @@
     </div>
 
     <div class="row">
-      
+
       <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
         <div class="icon-box">
           <div class="icon"><i class="bx bx-file"></i></div>
@@ -148,11 +148,11 @@
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
+      <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
         <div class="icon-box">
           <div class="icon"><i class="bx bx-file"></i></div>
-          <h4 class="title"><a href="">Berkas Formulir</a></h4>
-          <p class="description">Mengisi formulir magang</p>
+          <h4 class="title"><a href="">Surat Permontaan</a></h4>
+          <p class="description">Surat permohonan dari  intansi/kampus</p>
         </div>
       </div>
 
